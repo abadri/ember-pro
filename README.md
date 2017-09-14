@@ -15,6 +15,8 @@
 * Depending on whether you attended an in-person workshop or watched a video course, you may have a dedicated branch that represents the code I actually wrote during class
 
 ## Installing
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-pro.svg)](https://greenkeeper.io/)
 You'll need to install several dependencies, including node.js, ember-cli and more. This project includes a command to check whether you're set up with appropriate versions of everything. If you're missing a dependency, please google for instructions regarding installation on your operating system.
 
 
